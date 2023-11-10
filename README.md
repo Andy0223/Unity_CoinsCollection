@@ -8,13 +8,13 @@
 - 若在遊戲過程中碰到粉紅色的尖刺（Spikes），一樣遊戲失敗
 
 ## 遊戲素材版權說明
-2D Hand Painted Platformer Environment：主要場景的素材
+1. 2D Hand Painted Platformer Environment：主要場景的素材 
 https://assetstore.unity.com/packages/2d/environments/2d-hand-painted-platformer-environment-227159
-Casual & Relaxing Game Music：遊戲主要 BGM
+2. Casual & Relaxing Game Music：遊戲主要 BGM 
 https://assetstore.unity.com/packages/audio/music/free-casual-relaxing-game-music-pack-262740
-Coins Sfx：金幣碰撞聲
+3. Coins Sfx：金幣碰撞聲 
 https://assetstore.unity.com/packages/audio/sound-fx/coins-sfx-39052
-2D UFO tutorial：金幣
+4. 2D UFO tutorial：金幣
 Provided by TA, cannot found in Unity Assets Store
 
 ## 說明特色或額外功能
